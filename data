@@ -1,0 +1,38 @@
+git access rcs1985 Jijabai_121_143
+toekn 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
+what is school name? a
+what is care name? a
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`
+tomcat
+master user and password tomcat tomcat 
+C:\Program Files\apache-tomcat-10.1.26\bin\startup 
+http://localhost:8080/
+rcs1985 <rahulkumar.shinde@gmail.com>
+rcs1985 <rahulkumar.shinde@gmail.com>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`
+for starting jenkin 
+go to cd C:\Software> and run java -jar jenkins.war --enable-future-java --httpPort=8090
+C:\Software>java -jar jenkins.war --enable-future-java --httpPort=8090
+jenkin link http://localhost:8090/
+admin admin
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`
+C:\Program Files\Java\jdk-14.0.2
+C:\Program Files\Git\bin\git.exe
+C:\Program Files\apache-maven-3.9.8
+C:\Program Files\apache-tomcat-10.1.26\
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`
+check war file generated or not by below path 
+C:\Program Files\apache-tomcat-10.1.26\webapps\
+https://github.com/rcs1985/PetStoreWebApp.git
+git "mygit"
+jdko "myjdk"
+maven "mymaven"
+
+**/*.War
+http://localhost:8080/
+PetStoreWebApp
+deploy adapters: [tomcat9(credentialsId: '17c1637d-6792-475e-864f-47ce8fb29179', path: '', url: 'http://localhost:8080/')], contextPath: 'PetStoreWebApp', war: '**/*.war'
+
+
+https://github.com/rcs1985/MavenWebAppOne.git
+MavenWebAppOne
